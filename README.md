@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'am Jhay, welcome to my repository! 
+## I'am Jhay, welcome to my repository! 😁
 
 **I'am a web developer.**
 
